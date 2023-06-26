@@ -1,7 +1,8 @@
 {
     "manifest_version": 3,
+    "description": "An extension which helps you to store all the relevent URL's together across a Chrome window.",
     "version": "1.0",
-    "name": "Leads Tracker",
+    "name": "Leads-Tracker",
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.png"
