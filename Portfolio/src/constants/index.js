@@ -70,11 +70,11 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Video Editor",
+    title: "Data Analysis",
     icon: backend,
   },
   {
-    title: "Designer",
+    title: "Video Editor & Designer",
     icon: creator,
   },
 ];
